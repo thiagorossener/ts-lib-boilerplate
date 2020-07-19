@@ -51,6 +51,6 @@ $ npm run bundle
 
 ### TODO
 
-- [] Set up scripts to publish NPM package
-- [] Set up scripts to deploy demo page on GHPages
-- [] Set up SASS for demo page
+- [ ] Set up scripts to publish NPM package
+- [ ] Set up scripts to deploy demo page on GHPages
+- [ ] Set up SASS for demo page
