@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "outDir": ".",
+    "baseUrl": ".",
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["dom", "es6"],
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "strictNullChecks": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "importHelpers": true,
+    "declaration": true,
+    "sourceMap": true,
+    "paths": {
+      "mylib": ["src/index"],
+      "mylib/*": ["src/*"]
+    }
+  },
+  "exclude": ["node_modules", "build", "dist"]
+}
