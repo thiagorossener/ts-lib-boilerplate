@@ -1,5 +1,7 @@
 # TS Lib Boilerplate
 
+*Last update on July/2020*
+
 This is a template project for a client TypeScript library creation.
 
 It sets up:
