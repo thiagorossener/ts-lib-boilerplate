@@ -3,6 +3,7 @@
 This is a template project for a client TypeScript library creation.
 
 It sets up:
+
 - Webpack development environment
 - Webpack bundle
 - Mocha tests with Istanbul for coverage reports
@@ -13,6 +14,14 @@ It sets up:
 ## Set up
 
 This setup assumes you're using VSCode as editor. Get the most of it by installing [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) extensions.
+
+### Before you start
+
+Run:
+
+```
+$ npm install
+```
 
 ## Scripts
 
@@ -44,4 +53,3 @@ $ npm run bundle
 
 [] Set up scripts to publish NPM package
 [] Set up SASS for demo page
-
