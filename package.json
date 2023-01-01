@@ -60,12 +60,12 @@
     "nyc": "^15.1.0",
     "prettier": "^2.0.5",
     "rimraf": "^3.0.2",
-    "ts-loader": "^8.0.1",
+    "ts-loader": "^8.4.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7",
     "uglifyjs-webpack-plugin": "^2.2.0",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.12",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^5.0.9"
   }
